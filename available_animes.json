@@ -165,25 +165,6 @@
     ]
   },
   {
-    "title": "BTOOOM!",
-    "mal_ids": [
-      "14345"
-    ],
-    "languages": [
-      "Multi Audio"
-    ]
-  },
-  {
-    "title": "The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible",
-    "mal_ids": [
-      "54913"
-    ],
-    "languages": [
-      "English/Japanese (7+ indian lag. Sub)",
-      "Multi Audio"
-    ]
-  },
-  {
     "title": "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too",
     "mal_ids": [
       "52830"
@@ -226,6 +207,24 @@
     ],
     "languages": [
       "Hindi/Sub"
+    ]
+  },
+  {
+    "title": "BTOOOM!",
+    "mal_ids": [
+      "14345"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible",
+    "mal_ids": [
+      "54913"
+    ],
+    "languages": [
+      "English/Japanese (7+ indian lag. Sub)"
     ]
   },
   {
@@ -276,15 +275,6 @@
     ],
     "languages": [
       "Hindi"
-    ]
-  },
-  {
-    "title": "Naruto",
-    "mal_ids": [
-      "20"
-    ],
-    "languages": [
-      "English"
     ]
   },
   {
@@ -362,6 +352,15 @@
     ],
     "languages": [
       "Hindi"
+    ]
+  },
+  {
+    "title": "Naruto",
+    "mal_ids": [
+      "20"
+    ],
+    "languages": [
+      "English"
     ]
   },
   {
