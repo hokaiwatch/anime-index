@@ -60,7 +60,8 @@
       "52991"
     ],
     "languages": [
-      "Hindi/Sub"
+      "Hindi/Sub",
+      "Multi Language"
     ]
   },
   {
@@ -137,7 +138,8 @@
       "51009"
     ],
     "languages": [
-      "English/Sub"
+      "English/Sub",
+      "Multi Audio"
     ]
   },
   {
@@ -164,7 +166,8 @@
       "53149"
     ],
     "languages": [
-      "Hindi"
+      "Hindi",
+      "Multi Audio"
     ]
   },
   {
@@ -228,7 +231,8 @@
     ],
     "languages": [
       "English",
-      "Japanese"
+      "Japanese",
+      "Multi Audio"
     ]
   },
   {
@@ -371,6 +375,437 @@
     ],
     "languages": [
       "Hindi"
+    ]
+  },
+  {
+    "title": "Mashle: Magic and Muscles",
+    "mal_ids": [
+      "52211",
+      "55339",
+      "55813"
+    ],
+    "languages": [
+      "Hindi/Japanese",
+      "Multi Language"
+    ]
+  },
+  {
+    "title": "Demon Slayer: Kimetsu no Yaiba",
+    "mal_ids": [
+      "38000",
+      "40456",
+      "47778",
+      "49926",
+      "51019",
+      "55701",
+      "59192",
+      "62546",
+      "62547"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Spy x Family",
+    "mal_ids": [
+      "50265",
+      "50602",
+      "53887",
+      "53888",
+      "57980",
+      "59027"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Dan Da Dan",
+    "mal_ids": [
+      "57334",
+      "60543"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Demon Slayer: Kimetsu no Yaiba - The Movie 3: Infinity Castle",
+    "mal_ids": [
+      "62546",
+      "62547"
+    ],
+    "languages": [
+      "Hindi",
+      "Japanese/English(Sub)"
+    ]
+  },
+  {
+    "title": "My Oni Girl",
+    "mal_ids": [
+      "58449"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Dan Da Dan Season 2",
+    "mal_ids": [
+      "60543"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "That Time I Got Reincarnated as a Slime",
+    "mal_ids": [
+      "37430",
+      "39551"
+    ],
+    "languages": [
+      "Hindi only"
+    ]
+  },
+  {
+    "title": "That Time I Got Reincarnated as a Slime Season 2",
+    "mal_ids": [
+      "37430",
+      "39551"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "That Time I Got Reincarnated as a Slime Season 3",
+    "mal_ids": [
+      "53580",
+      "59493"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Re:ZERO -Starting Life in Another World-",
+    "mal_ids": [
+      "31240"
+    ],
+    "languages": [
+      "Hindi/Japanese"
+    ]
+  },
+  {
+    "title": "Re:ZERO -Starting Life in Another World- Season 2",
+    "mal_ids": [
+      "31240",
+      "39587"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Re:ZERO -Starting Life in Another World- Season 3",
+    "mal_ids": [
+      "31240",
+      "39587",
+      "42203",
+      "54857"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Takopi's Original Sin",
+    "mal_ids": [
+      "60489"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Tatsuki Fujimoto 17-26",
+    "mal_ids": [
+      "62405"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Solo Leveling",
+    "mal_ids": [
+      "52299"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Solo Leveling Season 2: Arise from the Shadow",
+    "mal_ids": [
+      "52299",
+      "58567"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Welcome to the outcast's restaurant",
+    "mal_ids": [
+      "60523"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "The Elusive Samurai",
+    "mal_ids": [
+      "54724"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Mononoke the Movie: Phantom in the Rain",
+    "mal_ids": [
+      "52107"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Mononoke The Movie: Chapter II - The Ashes of Rage",
+    "mal_ids": [
+      "59408"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "The Apothecary Diaries",
+    "mal_ids": [
+      "54492"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "The Apothecary Diaries Season 2",
+    "mal_ids": [
+      "54492",
+      "58514"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Chainsaw Man",
+    "mal_ids": [
+      "44511"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Ranma ½ (2024)",
+    "mal_ids": [
+      "59145",
+      "60564"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Howl's Moving Castle",
+    "mal_ids": [
+      "431"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "My Neighbor Totoro",
+    "mal_ids": [
+      "523"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Princess Mononoke",
+    "mal_ids": [
+      "164"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Ponyo",
+    "mal_ids": [
+      "2890"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Kiki's Delivery Service",
+    "mal_ids": [
+      "512"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Suzume",
+    "mal_ids": [
+      "50594"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Black Clover",
+    "mal_ids": [
+      "34572"
+    ],
+    "languages": [
+      "Hindi"
+    ]
+  },
+  {
+    "title": "Black Clover Season 2",
+    "mal_ids": [
+      "34572",
+      "61967"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Lord of Mysteries",
+    "mal_ids": [
+      "49818"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Chainsaw Man – The Movie: Reze Arc",
+    "mal_ids": [
+      "57555"
+    ],
+    "languages": [
+      "English/Japanese"
+    ]
+  },
+  {
+    "title": "Black Clover: Sword of the Wizard King",
+    "mal_ids": [
+      "48585"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Dr. Stone",
+    "mal_ids": [
+      "38691",
+      "40852",
+      "43349",
+      "43555",
+      "48549",
+      "50612",
+      "55644",
+      "57592",
+      "61322"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Dr. Stone: Stone Wars Eve of the Battle Special Feature",
+    "mal_ids": [
+      "38691",
+      "40852",
+      "43349",
+      "43555",
+      "48549",
+      "50612",
+      "55644",
+      "57592",
+      "61322"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Dr. Stone: New World",
+    "mal_ids": [
+      "38691",
+      "40852",
+      "43349",
+      "43555",
+      "48549",
+      "50612",
+      "55644",
+      "57592",
+      "61322"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Dr. Stone: Science Future",
+    "mal_ids": [
+      "38691",
+      "40852",
+      "43349",
+      "43555",
+      "48549",
+      "50612",
+      "55644",
+      "57592",
+      "61322"
+    ],
+    "languages": [
+      "Multi Audio"
+    ]
+  },
+  {
+    "title": "Weathering with You",
+    "mal_ids": [
+      "38826"
+    ],
+    "languages": [
+      "Multi Audio"
     ]
   }
 ]
